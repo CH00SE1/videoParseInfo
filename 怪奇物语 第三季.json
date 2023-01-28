@@ -1,0 +1,52 @@
+{
+  "video_name": "怪奇物语 第三季",
+  "director": [
+    "类型：欧美地区：美国年份：2019",
+    "状态：第08集",
+    "主演：薇诺娜·瑞德,大卫·哈伯,菲恩·伍法德,米莉·波比·布朗,",
+    "导演：马特·达菲,罗斯·达菲,肖恩·利维,乌塔·布里兹维茨,"
+  ],
+  "protagonist": "简介：详细\u003e",
+  "vts": [
+    {
+      "file_name": "怪奇物语 第三季第01集",
+      "url": "https://v.gsuus.com/play/mbk5ZLXe/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/xboYQlKe/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第三季第02集",
+      "url": "https://v.gsuus.com/play/xboYQlKe/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/9avgovrb/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第三季第03集",
+      "url": "https://v.gsuus.com/play/9avgovrb/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/kazmKz8e/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第三季第04集",
+      "url": "https://v.gsuus.com/play/kazmKz8e/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/oeEl9pkd/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第三季第05集",
+      "url": "https://v.gsuus.com/play/oeEl9pkd/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/wdLg8z4b/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第三季第06集",
+      "url": "https://v.gsuus.com/play/wdLg8z4b/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/ZdP1ZEne/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第三季第07集",
+      "url": "https://v.gsuus.com/play/ZdP1ZEne/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/NbWn70ga/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第三季第08集",
+      "url": "https://v.gsuus.com/play/NbWn70ga/index.m3u8",
+      "url_next": ""
+    }
+  ]
+}

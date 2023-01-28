@@ -1,0 +1,47 @@
+{
+  "video_name": "坏家伙们",
+  "director": [
+    "类型：韩剧地区：韩国年份：2014",
+    "状态：更新至11集完结",
+    "主演：,",
+    "导演："
+  ],
+  "protagonist": "简介：详细\u003e",
+  "vts": [
+    {
+      "file_name": "坏家伙们第02集",
+      "url": "https://z.gszyd.com:65/20220421/g6DxNsNx/index.m3u8",
+      "url_next": "https://z.gszyd.com:65/20220421/3R9Dej8M/index.m3u8"
+    },
+    {
+      "file_name": "坏家伙们第05集",
+      "url": "https://z.gszyd.com:65/20220421/3R9Dej8M/index.m3u8",
+      "url_next": "https://z.gszyd.com:65/20220421/DJohQFSY/index.m3u8"
+    },
+    {
+      "file_name": "坏家伙们第07集",
+      "url": "https://z.gszyd.com:65/20220421/DJohQFSY/index.m3u8",
+      "url_next": "https://z.gszyd.com:65/20220421/EGmwSNTU/index.m3u8"
+    },
+    {
+      "file_name": "坏家伙们第08集",
+      "url": "https://z.gszyd.com:65/20220421/EGmwSNTU/index.m3u8",
+      "url_next": "https://z.gszyd.com:65/20220421/oXRoLIDO/index.m3u8"
+    },
+    {
+      "file_name": "坏家伙们第09集",
+      "url": "https://z.gszyd.com:65/20220421/oXRoLIDO/index.m3u8",
+      "url_next": "https://z.gszyd.com:65/20220421/w9dgvjFp/index.m3u8"
+    },
+    {
+      "file_name": "坏家伙们第10集",
+      "url": "https://z.gszyd.com:65/20220421/w9dgvjFp/index.m3u8",
+      "url_next": "https://z.gszyd.com:65/20220421/dG534PjB/index.m3u8"
+    },
+    {
+      "file_name": "坏家伙们第11集",
+      "url": "https://z.gszyd.com:65/20220421/dG534PjB/index.m3u8",
+      "url_next": ""
+    }
+  ]
+}

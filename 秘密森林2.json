@@ -1,0 +1,37 @@
+{
+  "video_name": "秘密森林2",
+  "director": [
+    "类型：韩剧地区：韩国年份：2020",
+    "状态：第16集",
+    "主演：曹承佑,裴斗娜,李浚赫,尹世雅,崔武成,全慧珍,朴成根,金英在,朴知妍,李海荣,",
+    "导演：朴铉锡"
+  ],
+  "protagonist": "简介：被临时调入检察厅刑事法制团的黄始木（曹承佑饰），与借调至警察厅搜查革新团的韩汝真（裴斗娜饰）因为溺水案重新有了详细\u003e",
+  "vts": [
+    {
+      "file_name": "秘密森林2第01集",
+      "url": "https://v.gsuus.com/play/mbkrj5Na/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/xbojnYBa/index.m3u8"
+    },
+    {
+      "file_name": "秘密森林2第02集",
+      "url": "https://v.gsuus.com/play/xbojnYBa/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/9av8xgXd/index.m3u8"
+    },
+    {
+      "file_name": "秘密森林2第03集",
+      "url": "https://v.gsuus.com/play/9av8xgXd/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/kaz74Kmb/index.m3u8"
+    },
+    {
+      "file_name": "秘密森林2第04集",
+      "url": "https://v.gsuus.com/play/kaz74Kmb/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/oeE0X90d/index.m3u8"
+    },
+    {
+      "file_name": "秘密森林2第05集",
+      "url": "https://v.gsuus.com/play/oeE0X90d/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/ZdPzKZWa/index.m3u8"
+    }
+  ]
+}

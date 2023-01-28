@@ -1,0 +1,47 @@
+{
+  "video_name": "怪奇物语 第四季",
+  "director": [
+    "类型：欧美地区：美国年份：2022",
+    "状态：第7集",
+    "主演：米莉·波比·布朗,薇诺娜·瑞德,菲恩·伍法德,大卫·哈伯",
+    "导演：马特·达菲,罗斯·达菲"
+  ],
+  "protagonist": "简介：星庭之战已经过去六个月，那场战役给霍金斯镇带来了灭顶之灾，自此以后人心惶惶。在想尽各种办法之后，我们这群朋友们详细\u003e",
+  "vts": [
+    {
+      "file_name": "怪奇物语 第四季第1集",
+      "url": "https://v.gsuus.com/play/xboxNNdg/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/mbkqv6ez/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第四季第2集",
+      "url": "https://v.gsuus.com/play/mbkqv6ez/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/xboxzXdg/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第四季第3集",
+      "url": "https://v.gsuus.com/play/xboxzXdg/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/9avG05bG/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第四季第4集",
+      "url": "https://v.gsuus.com/play/9avG05bG/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/mbkqvNez/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第四季第5集",
+      "url": "https://v.gsuus.com/play/mbkqvNez/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/xboxzBdg/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第四季第6集",
+      "url": "https://v.gsuus.com/play/xboxzBdg/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/9avG00bG/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第四季第7集",
+      "url": "https://v.gsuus.com/play/9avG00bG/index.m3u8",
+      "url_next": ""
+    }
+  ]
+}

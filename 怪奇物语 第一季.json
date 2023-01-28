@@ -1,0 +1,52 @@
+{
+  "video_name": "怪奇物语 第一季",
+  "director": [
+    "类型：欧美地区：美国年份：2016",
+    "状态：第08集",
+    "主演：米莉·波比·布朗,薇诺娜·瑞德,大卫·哈伯",
+    "导演：肖恩·利维,马特·达菲,罗斯·达菲"
+  ],
+  "protagonist": "简介：《怪奇物语》：向征服了一代人的80年代经典作品致敬。《怪奇物语》以1983年的印第安纳州为背景，一个小详细\u003e",
+  "vts": [
+    {
+      "file_name": "怪奇物语 第一季第01集",
+      "url": "https://v.gsuus.com/play/Qe1jrDRa/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/7e589gBd/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第一季第02集",
+      "url": "https://v.gsuus.com/play/7e589gBd/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/Pe98Qmxd/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第一季第03集",
+      "url": "https://v.gsuus.com/play/Pe98Qmxd/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/mbk5ZN5e/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第一季第04集",
+      "url": "https://v.gsuus.com/play/mbk5ZN5e/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/xboYQkje/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第一季第05集",
+      "url": "https://v.gsuus.com/play/xboYQkje/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/9avgormb/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第一季第06集",
+      "url": "https://v.gsuus.com/play/9avgormb/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/kazmKyYe/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第一季第07集",
+      "url": "https://v.gsuus.com/play/kazmKyYe/index.m3u8",
+      "url_next": "https://v.gsuus.com/play/oeEl9mvd/index.m3u8"
+    },
+    {
+      "file_name": "怪奇物语 第一季第08集",
+      "url": "https://v.gsuus.com/play/oeEl9mvd/index.m3u8",
+      "url_next": ""
+    }
+  ]
+}
